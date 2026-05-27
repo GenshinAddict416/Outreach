@@ -1,0 +1,13 @@
+{
+  "holonomic": true,
+  "robotMass": 54.0,
+  "robotMOI": 6.0,
+  "robotWheelbase": 0.546,
+  "robotTrackwidth": 0.546,
+  "driveWheelRadius": 0.0508,
+  "driveGearing": 6.75,
+  "maxDriveSpeed": 4.5,
+  "driveMotorType": "KRAKEN_X60",
+  "driveCurrentLimit": 60.0,
+  "wheelCOF": 1.2
+}
